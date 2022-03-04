@@ -29,7 +29,8 @@
 </p>
 
 <br>
-
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/attri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="attri" /></a><a href="https://ko-fi.com/attri"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="attri" /></a></p><br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
