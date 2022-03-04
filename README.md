@@ -74,14 +74,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
 
-<br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Attri-das&show_icons=true&locale=en&layout=compact"
-    alt="Attri-das" /></p>
-
-<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Attri-das&show_icons=true&locale=en"
     alt="Attri-das" /></p>
@@ -91,10 +84,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Attri-das&" alt="Attri-das" /></p>
 
 <br>
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=adam-pw" alt="Attri-das" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
